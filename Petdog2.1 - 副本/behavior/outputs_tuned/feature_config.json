@@ -1,0 +1,21 @@
+{
+  "dataset_dir": "Activity Analysis",
+  "output_dir": "outputs_tuned",
+  "resize_width": 640,
+  "resize_height": 360,
+  "sample_fps": 2.0,
+  "window_seconds": 12,
+  "stride_seconds": 4,
+  "min_area_ratio": 0.002,
+  "max_area_ratio": 0.45,
+  "gaussian_blur": [
+    5,
+    5
+  ],
+  "morph_kernel": [
+    5,
+    5
+  ],
+  "daytime_start_hour": 7,
+  "daytime_end_hour": 21
+}

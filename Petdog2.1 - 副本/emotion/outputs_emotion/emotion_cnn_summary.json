@@ -1,0 +1,10 @@
+{
+  "best_epoch": 7,
+  "best_val_accuracy": 0.7265415549597856,
+  "best_val_macro_f1": 0.7251433896619475,
+  "epochs_completed": 13,
+  "freeze_backbone_epochs": 3,
+  "image_size": 256,
+  "loss_name": "cross_entropy",
+  "focal_gamma": 2.0
+}
