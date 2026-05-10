@@ -314,6 +314,4 @@ python -m behavior_warning.cli infer --video-path "Activity Analysis/your_video.
 - 对 `alert`、`angry`、`frown` 等易混淆情绪进行难样本增强。
 - 引入时序深度模型，如 CNN-LSTM、SlowFast 或 Video Transformer，提升视频级行为理解能力。
 - 将预警阈值改为可配置参数，便于不同场景调整敏感度。
-=======
-# petdog
->>>>>>> 78f907236e30f33d8c9664cfe9b5d3a31517b8c0
+
